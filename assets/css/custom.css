@@ -1,0 +1,15 @@
+:root {
+  --c-primary: #0C79D8;
+  --c-secondary: #001730;
+
+  --c-white: #fff;
+}
+
+html {
+  overflow: hidden;
+}
+
+body {
+  font-size: 16px;
+  color: #0B2439;
+}

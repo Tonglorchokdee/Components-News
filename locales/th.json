@@ -1,0 +1,15 @@
+{
+    "title": "ชื่อ",
+    "layout": {
+        "logout": "ออกจากระบบ"
+    },
+    "home": {
+        "greeting": "test"
+    },
+    "rules":{
+        "required": "field is required."
+    },
+    "admin": {
+        "greeting": "ระบบจัดการฐานข้อมูล"
+    }
+}
